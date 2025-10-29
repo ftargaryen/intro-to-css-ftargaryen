@@ -13,17 +13,19 @@ header{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 15px;
+  padding: 10px;
+  margin-left: 40px;
 }
 header a{
   text-decoration: none;
   color: rgb(26, 25, 25);
-  gap: 30px;
+  gap: 25px;
   margin: 27px;
+  margin-right: 60px;
 }
 
 header h1{
-  font-size: 25px;
+  font-size: 20px;
   margin-left: 50px;
 }
 
@@ -34,15 +36,15 @@ header h1{
   align-items: center;
   background-color: green;
   width: 100vw;
-  height: 90vh;
+  height: 100vh;
   flex-direction: row;
-  padding: 60px;
+  padding: 25px;
 }
 
 .card1 {
   margin: 10px;
-  padding: 10%;
-  background-color: #4b4848;
+  padding: 9%;
+  background-color: #5d5c5c;
   color: #ddd;
   align-items: center;
   justify-content: space-around;
